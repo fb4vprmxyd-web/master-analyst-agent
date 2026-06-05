@@ -12,7 +12,6 @@
 [![Claude](https://img.shields.io/badge/Claude-Sonnet-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![GPT-4](https://img.shields.io/badge/GPT--4-Fallback-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Reflex](https://img.shields.io/badge/Reflex-Dashboard-6C47FF?style=for-the-badge)](https://reflex.dev/)
-[![License](https://img.shields.io/badge/MIT-green?style=for-the-badge)](LICENSE)
 
 <br>
 
@@ -254,8 +253,6 @@ master-analyst-agent/
 ---
 
 <div align="center">
-
-**[MIT License](LICENSE)**
 
 Built with Claude, GPT-4, Reflex, yfinance, Alpha Vantage, and ReportLab
 

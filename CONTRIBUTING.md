@@ -21,7 +21,3 @@ Each agent is an independent subprocess that outputs JSON to `shared_outputs/`. 
 - Keep PRs focused — one feature or fix per PR
 - Test your changes with `python run_demo.py --check`
 - Ensure agent outputs remain valid JSON
-
-## License
-
-By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
